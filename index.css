@@ -3,14 +3,31 @@ body {
   background-size: 100%;
   background-repeat: no-repeat;
 }
+
+.cursive {
+  font-family: Pacifico, cursive;
+  font-size: 40px;
+  color: white;
+}
+
+.nav-item {
+  background-color: #df654a;
+  margin: 1px;
+  border-radius: 3px;
+}
+
+.nav-item.active {
+  background-color: #ed522e;
+}
+
 .nav-link {
-  color: whitesmoke;
+  color: white;
 }
 
 .card {
   margin: 5px;
-  border: 2px solid;
-  border-color: gray;
+  border: 1px solid;
+  border-color: #2e4f5b;
 }
 
 .btn-primary {
