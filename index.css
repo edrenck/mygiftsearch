@@ -3,3 +3,16 @@ body {
   background-size: 100%;
   background-repeat: no-repeat;
 }
+.nav-link {
+  color: whitesmoke;
+}
+
+.card {
+  border: 2px solid;
+  border-color: gray;
+}
+
+.btn-primary {
+  background-color: #ed522e;
+  border-color: #ed522e;
+}
